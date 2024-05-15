@@ -1,0 +1,13 @@
+body{
+    background-color: goldenrod;
+}
+.moi{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    transition: background-color 1s;
+}
+
+.moi.red{
+    background-color: red;
+}
